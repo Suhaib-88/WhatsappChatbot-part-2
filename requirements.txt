@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pyngrok
+langchain
+langchain-community 
+twilio
+python-decouple
+python-multipart
+google-cloud-dialogflow
+dialogflow
